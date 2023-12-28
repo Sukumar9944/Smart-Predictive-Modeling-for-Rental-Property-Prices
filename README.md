@@ -8,7 +8,6 @@ This project implements a machine learning model to predict house rental prices.
 
 1. [Installation](#installation)
 2. [Usage](#usage)
-   - [Using Streamlit App](#streamlit-app)
 3. [Data](#data)
 4. [Model Training and Evaluation](#model-training)
 5. [Dependencies](#dependencies)
